@@ -1,6 +1,6 @@
 // Write your JavaScript code here!
 
-const { addDestinationInfo } = require("./scriptHelper");
+//const { addDestinationInfo } = require("./scriptHelper");
 
 
 window.addEventListener("load", function() {
